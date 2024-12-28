@@ -1,5 +1,5 @@
 ## Getting Started
-This application is a senior project developed for the University of Nevada, Reno. It was developed between the fall of 2023 and spring of 2024. It is an E-commerce application that implements cryptographic payments. The primary design focus was minimalism and incorporating top design/navigation elements from leading E-commerce brands. The project involved the SDLC, creating various design documents, user flows, test-cases, multiple presentations to faculty members, market research, peer code reviews, etc.
+This application is a senior project developed for the University of Nevada, Reno. It was developed between the fall of 2023 and spring of 2024. It is an E-commerce application that implements cryptographic payments. The primary design focus was minimalism and incorporating top design/navigation elements from leading E-commerce brands. The project involved the Software Development Life Cycle, creating various design documents, user flows, test-cases, presentations to faculty members, members of the local community and other students, market research, peer code reviews, etc.
 
 ## Libraries Used
 - TailwindCSS
